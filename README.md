@@ -7,3 +7,5 @@
 
 Данные взяты из соревнования на kaggle:<br>
 https://www.kaggle.com/competitions/sf-booking/data
+
+*Учебный проект*
