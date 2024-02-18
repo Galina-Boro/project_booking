@@ -8,7 +8,7 @@
 Данные взяты из соревнования на kaggle:<br>
 https://www.kaggle.com/competitions/sf-booking/data
 
-*Учебный проект*  
+* *Учебный проект*  
 --------------   
 
 A project with a dataset from the Booking company, which contains information about 515,000 reviews of hotels in Europe.  
