@@ -18,4 +18,6 @@ Building a model that predicts a hotel's rating in order to identify dishonest h
 Data taken from kaggle competition:  
 https://www.kaggle.com/competitions/sf-booking/data  
 
+project_booking_Eng - the same file with english comments  
+
 *Educational project*
