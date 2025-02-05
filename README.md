@@ -10,7 +10,7 @@ https://www.kaggle.com/competitions/sf-booking/data
 
 --------------   
 
-A project with a dataset from the Booking company, which contains information about 515,000 reviews of hotels in Europe.  
+This project with a dataset from the Booking company, which contains information about 515,000 reviews of hotels in Europe.  
 
 **Task**<br>
 Building a model that predicts a hotel's rating in order to identify dishonest hotels that inflate their ratings.  
